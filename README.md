@@ -91,19 +91,6 @@ Because this project accesses the Webcam and loads ES modules via CDN, **it must
 
 
 
-## ✋ Controls Guide
-
-
-
-| Gesture         | Action                           | Visual Cue                        
-
-| :---    | :--- | :---                         |
-
-| **Move Hand** | Rotates the 3D model (X/Y axis).  | Hand position follows screen.            |
-
-| **Pinch (👌)** | Scales the object (Zoom In/Out). | Distance between Thumb & Index.        |
-
-| **Hand Distance** | Explodes/Implodes the particles. | Move hand towards/away from camera. |
 
 
 
