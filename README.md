@@ -1,6 +1,6 @@
 # Aether Particles ✋✨
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![Version](https://img.shields.io/badge/version-3.6-blue.svg)
 ![Project Status](https://img.shields.io/badge/Status-Active-success)
 ![Three.js](https://img.shields.io/badge/Three.js-r128-black)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-Hands-orange)
